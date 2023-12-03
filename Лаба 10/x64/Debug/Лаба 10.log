@@ -1,0 +1,6 @@
+﻿  Лаба 10.cpp
+C:\Users\Gangster_3000\Desktop\Универ\проги\ЭГА\Лаба 10\Лаба 10.cpp(88,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gangster_3000\Desktop\Универ\проги\ЭГА\Лаба 10\Лаба 10.cpp(107,12): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gangster_3000\Desktop\Универ\проги\ЭГА\Лаба 10\Лаба 10.cpp(111,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gangster_3000\Desktop\Универ\проги\ЭГА\Лаба 10\Лаба 10.cpp(123,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Лаба 10.vcxproj -> C:\Users\Gangster_3000\Desktop\Универ\проги\ЭГА\Лаба 10\x64\Debug\Лаба 10.exe
